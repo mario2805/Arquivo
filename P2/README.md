@@ -1,3 +1,3 @@
 # Fundamentos da programação I
-- Professor: Davis
-- Linguagem: Python
+- **Professor:** Davis
+- **Linguagem:** Python
