@@ -1,3 +1,3 @@
 # Introdução à programação
-- Professor: Zé Roberto
-- Linguagem: Python
+- **Professor:** Zé Roberto
+- **Linguagem:** Python
